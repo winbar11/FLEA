@@ -126,7 +126,7 @@ export const managers = [
     // 7th-Team
     "managerID": "607257583161536512",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Will Lowery",
-    "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
     "photo": "/managers/Lowery.jpg", // square ratio recommended (no larger than 500x500)

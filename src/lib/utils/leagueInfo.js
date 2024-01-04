@@ -6,7 +6,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 
 export const homepageText = `
-  <p>A rag-tag group of friends with the most competitive fantasy league on planet Earth! The league begain in AD 2016. </p>
+  <p>A rag-tag group of friends with the most competitive fantasy league on planet Earth! The league began in 2016. </p>
   <p>Founded by co-comissioners Windell Barfield & Clayton Shirley - who are dedicated in bringing an exciting, competitive & fair fantasy experience to their fantasy constituents.</p>
   <p>This page will updated regularly with draft order, transactions, trades & other fantasy tid-bits such as commish blogs!</p>
 `;

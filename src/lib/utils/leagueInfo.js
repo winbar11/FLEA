@@ -19,8 +19,8 @@ export const managers = [
       "managerID": "195265232795336704",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
       "name": "Windell Barfield",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": null, // (optional)
-      "bio": null,
+      "location": "Georgia", // (optional)
+      "bio":"",
       "photo": "/managers/Windell.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -37,8 +37,8 @@ export const managers = [
       "managerID": "212639722470637568",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
       "name": "Clayton Shirley",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": null, // (optional)
-      "bio": null,
+      "location": "Georgia", // (optional)
+      "bio":"",
       "photo": "/managers/Clayton.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -55,8 +55,8 @@ export const managers = [
       "managerID": "601991119231848448",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
       "name": "Lance Barnes",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": null, // (optional)
-      "bio": null,
+      "location": "North Carolina", // (optional)
+      "bio":"",
       "photo": "/managers/Lance.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -73,8 +73,8 @@ export const managers = [
       "managerID": "603993255616512000",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
       "name": "Trey Alexander",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": null, // (optional)
-      "bio": null,
+      "location": "Georgia", // (optional)
+      "bio":"",
       "photo": "/managers/Trey.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -91,8 +91,8 @@ export const managers = [
     "managerID": "605511948712370176",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Spencer Hardin",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": null, // (optional)
-    "bio": null,
+    "location": "Georgia", // (optional)
+    "bio":"",
     "photo": "/managers/Spencer.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -109,8 +109,8 @@ export const managers = [
     "managerID": "606960030209626112",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Dylan Baker",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": null, // (optional)
-    "bio": null,
+    "location": "Georgia", // (optional)
+    "bio":"",
     "photo": "/managers/Dylan.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -127,8 +127,8 @@ export const managers = [
     "managerID": "607257583161536512",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Will Lowery",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": null, // (optional)
-    "bio": null,
+    "location": "Georgia", // (optional)
+    "bio":"",
     "photo": "/managers/Lowery.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -145,8 +145,8 @@ export const managers = [
     "managerID": "723992186059853824",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Morgan Rich",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": null, // (optional)
-    "bio": null,
+    "location": "Georgia", // (optional)
+    "bio":"",
     "photo": "/managers/Mo.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -163,8 +163,8 @@ export const managers = [
     "managerID": "724065874633355264",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Hal Mansour",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": null, // (optional)
-    "bio": null,
+    "location": "Georgia", // (optional)
+    "bio":"",
     "photo": "/managers/Hal.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -181,8 +181,8 @@ export const managers = [
     "managerID": "725757598426587136",  // ID of the managerID that the manager manages (look at the order of the power rankings graph)
     "name": "Noah Walsh",
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-    "location": null, // (optional)
-    "bio": null,
+    "location": "Georgia", // (optional)
+    "bio":"",
     "photo": "/managers/Noah.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
@@ -210,7 +210,7 @@ export const managers = [
     //   "name": "Your Name",
     //   "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
     //   "location": null, // (optional)
-    //   "bio": null,
+    //   "bio":"",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     //   "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     //   "favoriteTeam": "null", // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE

@@ -96,5 +96,4 @@
 </style>
 
 <div class="constitution">
-
 </div>

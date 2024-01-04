@@ -21,7 +21,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": null,
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Windell.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
       "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -39,7 +39,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": null,
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Clayton.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
       "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -57,7 +57,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": null,
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Lance.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
       "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -75,7 +75,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": null,
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/Trey.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
       "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -93,7 +93,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
-    "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+    "photo": "/managers/Spencer.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
     "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -111,7 +111,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
-    "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+    "photo": "/managers/Dylan.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
     "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -129,7 +129,7 @@ export const managers = [
     "tookOver": 2021, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
-    "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+    "photo": "/managers/Lowery.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
     "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -147,7 +147,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
-    "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+    "photo": "/managers/Mo.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
     "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -165,7 +165,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
-    "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+    "photo": "/managers/Hal.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
     "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)
@@ -183,7 +183,7 @@ export const managers = [
     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": null, // (optional)
     "bio": null,
-    "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+    "photo": "/managers/Noah.jpg", // square ratio recommended (no larger than 500x500)
     "fantasyStart": null, // (optional) when did the manager start playing fantasy football
     "favoriteTeam": null, // (optional) favorite NFL team, (follows convention: null, sea, mia, etc.) MUST BE LOWERCASE
     "mode": null, // (optional) 'null', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'null.png' currently in there)

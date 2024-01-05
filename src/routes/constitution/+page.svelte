@@ -202,7 +202,7 @@ commissioner is the deciding vote.</p>
         <li>40+ Yard Rush TD Bonus: 1</li>
     </ul>
 
-<p>RECEIVING::</p>
+<p>RECEIVING:</p>
     <ul>
         <li>Reception: 0.5</li>
         <li>Receiving Yards 1 point every 10 yards (0.10 per yard)</li>
